@@ -1,0 +1,3 @@
+./duplicateremover.exe "C:\Users\nico.flöter\Desktop\csharp tests\duplicate_remover\test stuff\output.csv" "C:\Users\nico.flöter\Desktop\csharp tests\duplicate_remover\test stuff\input1.txt" "C:\Users\nico.flöter\Desktop\csharp tests\duplicate_remover\test stuff\input2.txt"
+
+./duplicateremover.exe "[outputFilePath]" "[inputFilePath1]" "[inputFilePath2]" (no limit on amount of input files)
